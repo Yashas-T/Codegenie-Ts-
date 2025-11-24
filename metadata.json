@@ -1,0 +1,5 @@
+{
+  "name": "CodeGenie",
+  "description": "An AI-powered coding assistant featuring text-to-code generation, code explanation, and comprehensive user/admin dashboards.",
+  "requestFramePermissions": []
+}
